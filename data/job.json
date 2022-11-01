@@ -1,0 +1,113 @@
+[
+    {
+      "name": "Data Scientist",
+      "description": "This Data Scientist job description template is optimized for posting to online job boards or careers pages and is easy to customize for your company. We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company.",
+      "positionType":"employ",
+      "website": "betterTeam@test.com",
+      "location":"remote",
+      "jobType": "fullTime",
+      "sallery":"20000-40000",
+      "status": "available"
+    },
+  
+    {
+      "name": "Anylystice Manager",
+      "description": "Analytics managers are well-versed in virtually all data collection and analysis models. They comb through data sets displaying consumer buying habits, repeat purchase rates, customer lifecycles, and other trends, to identify patterns. As an analytics manager, you will then present these patterns to business representatives and executives, who will use them to improve output.",
+      "positionType":"Manager",
+     "website": "https://resources.workable.com/",
+      "jobType": "fullTime",
+      "sallery":"10000-20000",
+      "status": "available"
+    },
+  
+    {
+      "name": "Business Intelligence",
+      "description": "Business intelligence (BI) comprises the strategies and technologies used by enterprises for the data analysis and management of business information. ",
+      "positionType":"employ",
+      "website": "https://businessIntelligence.com",
+      "jobType": "partTime",
+      "sallery":"30000-40000",
+      "status": "unavailable"
+    },
+  
+    {
+      "name": "Data Engineer",
+      "description": "You’ll master the skills needed to design better data models, build data infrastructures. Get the Skills You Need to Launch Your Career. Apply for the Data Engineering Bootcamp! Professional Networking. Accessible Instructors. Hands-on Experience. ",
+      "positionType":"employ",
+      "website": "betterTeam/test.com",
+      "location":"NY",
+      "jobType": "fullTime",
+      "sallery":"20000-40000",
+      "status": "available"
+    },
+    {"name": "Machine learning",
+      "description": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks. ",
+      "website": "https://machine.com",
+      "positionType":"CFO",
+      "jobType": "fullTime",
+       "deadline":"02-02-21",
+      "sallery":"20000-40000",
+      "location":"remote",
+      "status": "available"},
+
+     
+      {
+        "name": "web-developer",
+      "description": "A web developer is a programmer who develops World Wide Web applications using a client–server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server, and http for communications between client and server. ",
+      "website": "https://developer.com",
+      "jobType": "fullTime",
+      "positionType":"Manager",
+      "deadline":"02-02-23",
+      "sallery":"30000-40000",
+      "location":"NJ",
+      "status": "available"
+     
+      },
+
+      {
+      "name": "Data serching manager",
+      "description": "A web developer is a programmer who develops World Wide Web applications using a client–server model. The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET (C#), Python, Node.js, Go or Java in the server, and http for communications between client and server. ",
+      "website": "https://developer.com",
+      "jobType": "fullTime",
+       "deadline":"02-02-22",
+      "positionType":"Manager",
+      "sallery":"30000-40000",
+      "location":"remote",
+      "status": "available"
+    
+      },
+
+      {
+        "name":"Operations Manager",
+        "experience": "2-3 years",
+        "qualification": "must completed bachelor degree",
+       "positionType":"Manager",
+         "location":"remote",
+         "applyDate":"december 1",
+          "status":"active",
+        "resumeLink": "https://www.myperfectresume.com/"
+      },
+    
+      {
+        "name": "General Manager",
+         "positionType":"Manager",
+        "experience": "2-3 years",
+        "location":"USA",
+       "qualification": "must completed bachelor degree",
+         "applyDate":"december 1",
+          "status":"active",
+        "resumeLink": "https://www.myperfectresume.com/"
+      },
+    
+      {"name": "Store Manager",
+        "experience": "2-3 years",
+        "location":"remote",
+        "qualification": "must completed bachelor degree",
+        "positionType":"Manager",
+         "applyDate":"december 1",
+          "status":"active",
+        "resumeLink": "https://www.myperfectresume.com/"
+      }
+     
+   
+  ]

@@ -1,0 +1,53 @@
+[
+    {
+      "personalInfo": {
+        "name": "Dipon",
+         "email":"dipon.ors@test.com",
+        "id": "633177da56be8326a827b812"
+      },
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+       "job":"Operations Manager",
+       "positionType":"Manager",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+  
+    {
+      "personalInfo": {
+        "name": "Ramtiaz Ahmed",
+      "email": "ramtiaz.fresh@test.com",
+      "id": "633177da56be8326a827b812"
+      },
+      "job": {
+        "name": "General Manager",
+        "id": "63509d950c7e9f9b904cac9c"
+      },
+     "positionType":"Manager",
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+  
+    {
+      "personalInfo": {
+        "name": "Lipon",
+         "email":"lipon.ors@test.com",
+        "id": "633177da56be8326a827b812"
+      },
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+      "job": {
+        "name": "Store Manager",
+        "id": "63509d950c7e9f9b904cac9c"
+      },
+     "positionType":"Manager",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    }
+   
+  ]

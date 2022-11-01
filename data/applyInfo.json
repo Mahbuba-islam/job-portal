@@ -1,0 +1,77 @@
+[
+    {
+     
+      "experience": "2-3 years",
+      "qualification": " completed bachelor degree",
+       "job":"Data Scientist",
+       "status":"active",
+       "personalInfo": {
+        "name": "Ripon",
+         "email":"ripon.ors@test.com"
+       
+      },
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+  
+    {
+      "personalInfo": {
+      "name": "Imtiaz Ahmed",
+      "email": "rasel.fresh@test.com",
+      "id": "633177da56be8326a827b812"
+      },
+     
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+   
+  
+    {
+      "personalInfo": {
+        "name": "Ripon",
+         "email":"ripon.ors@test.com",
+        "id": "633177da56be8326a827b812"
+      },
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+       "job":"Data Scientist",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+    {
+      "personalInfo": {
+        "name": "Mahbub Hossain",
+      "email": "hossain.mahbub@test.com",
+      "id": "633177da56be8326a827b812"
+      },
+      "job": {
+        "name": "Machine learning",
+        "id": "6353035d847ceadd731f3570"
+      },
+      "experience": "2-3 years",
+      "qualification": "must completed bachelor degree",
+       "applyDate":"december 1",
+        "status":"active",
+      "resumeLink": "https://www.myperfectresume.com/"
+    },
+    {
+      "personalInfo": {
+      "name": "Abdullah",
+      "email": "fahim.abdullah@test.com",
+      "id": "633177da56be8326a827b812"
+      },
+      "job": {
+        "name": "Data scientist",
+        "id": "63509d950c7e9f9b904cac9c"
+      },
+        
+      "experience": "2-3 years",
+      "qualification": "must completed college",
+       "applyDate":"december 1",
+      "status":"inactive",
+      "resumeLink": "https://www.myperfectresume.com/"
+    }
+  ]
