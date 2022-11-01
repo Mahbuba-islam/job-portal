@@ -30,3 +30,12 @@ app.use("/api/v1/user", userRoute);
 
 
 module.exports = app
+
+
+// // "routes":[
+    //     {
+    //         "src":"/(.*)",
+    //         "dest":"/"
+    //     }
+        
+    // ],
