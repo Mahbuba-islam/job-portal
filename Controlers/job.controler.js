@@ -1,5 +1,4 @@
-const Apply = require("../models/Apply");
-const Job = require("../models/Job");
+
 const {
   // getProductsService,
   createJobService, getJobService, applyJobService
