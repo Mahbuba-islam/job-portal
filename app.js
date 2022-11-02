@@ -20,6 +20,10 @@ app.get('/', (req, res) =>{
     res.send('running server')
 })
 
+app.get('/api/v1/jobs', (req, res) =>{
+  res.send('running server success')
+})
+
 
 
 app.use('/api/v1/jobs', jobRoute )
