@@ -17,7 +17,7 @@ const jobRoute = require('./routes/job.route')
 
 // rote api
 app.get('/', (req, res) =>{
-    res.send('running server successfully')
+    res.send('running server')
 })
 
 
@@ -32,10 +32,3 @@ app.use("/api/v1/user", userRoute);
 module.exports = app
 
 
-// // "routes":[
-    //     {
-    //         "src":"/(.*)",
-    //         "dest":"/"
-    //     }
-        
-    // ],
